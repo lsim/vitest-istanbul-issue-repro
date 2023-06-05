@@ -2,7 +2,7 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   test: {
-    name: 'puppeteer-tests',
+    name: 'stuff',
     include: ['test/**/*.js'],
     coverage: {
       provider: 'istanbul',
