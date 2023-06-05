@@ -7,6 +7,5 @@ export function bar() {
 }
 
 export function baz() {
-  const foo = 42;
-  return `doo ${foo}`;
+  return 'doo';
 }
