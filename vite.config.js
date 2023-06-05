@@ -10,10 +10,10 @@ export default defineConfig({
       reporter: ['lcov', 'text', 'text-summary'],
     },
     globals: true,
-    // browser: {
-    //   enabled: true,
-    //   headless: true,
-    //   name: 'chrome',
-    // },
+    browser: {
+      enabled: true,
+      headless: true,
+      name: 'chrome',
+    },
   },
 });
