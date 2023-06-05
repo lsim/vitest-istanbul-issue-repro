@@ -1,0 +1,16 @@
+dist
+node_modules
+.eslintcache
+coverage
+.nyc_output
+/*.zip
+.sync
+nuget/*.nupkg
+nuget/nuget.config
+nuget/steller.nuspec
+nuget/obj
+nuget/bin
+nuget/Steller
+version.txt
+.idea
+.DS_Store

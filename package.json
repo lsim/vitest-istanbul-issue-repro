@@ -1,0 +1,19 @@
+{
+  "name": "stuff",
+  "version": "0.0.0",
+  "scripts": {
+    "vitest": "vitest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/browser": "^0.31.1",
+    "@vitest/coverage-istanbul": "^0.31.4",
+    "@vitest/ui": "^0.31.1",
+    "jsdom": "^22.1.0",
+    "vite": "^4.3.2",
+    "vitest": "^0.31.1",
+    "webdriverio": "^8.10.5"
+  }
+}
